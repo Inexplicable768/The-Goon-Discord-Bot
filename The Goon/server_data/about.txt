@@ -1,0 +1,1 @@
+this area is where user data would be held when bot is run. No data is attached in repo for security reasons obviously
